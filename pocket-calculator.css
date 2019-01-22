@@ -1,0 +1,30 @@
+* {
+background-color: #FFDAB9;
+font-family: "Brush Script MT", cursive;
+font-size: 35px;
+font-style: bold;
+}
+
+#button {
+  color: white;
+  text-align: left;
+  align-content: left;
+  width: 80px;
+  height:80px;
+}
+
+#text {
+  color:  white;
+  text-align: center;
+}
+
+#design {
+  padding: 15px 15px 15px 15px;
+  background-color: #191970;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+  align-content: left;
+  width: 90px;
+  height:90px;
+}
